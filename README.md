@@ -16,6 +16,7 @@ corrections and improvements.
 I'm not a genius and I would actually love to read some code to learn from
 my mistakes. *So feel free to fork*.
 
+
 ## What's in this repo?
 
 The list started small, but in few days I did covered some ground.
@@ -23,3 +24,5 @@ Most of the problems are simple, but
 *the aim is always to find the best, most efficient, most elegant solution*.
 So, for example, don't be surprised if there are 4 or 5 implementations the
 _*Fibonacci Sequence Generator*_.
+
+
