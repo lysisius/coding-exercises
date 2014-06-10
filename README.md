@@ -1,5 +1,6 @@
 ## Coding-Exercises
 
+
 Coding-Exercises is not a proper project. Is more like a _box_ in which I'd like
 to leave the solution to various exercises that I do in my spare time (if any).
 
